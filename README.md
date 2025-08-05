@@ -15,3 +15,8 @@ The notebook contains:
 - ✅ Correlation analysis
 - ✅ Boxplots and histograms
 - ✅ Insights
+
+## 👨‍💻 Author
+
+**Satyam9196**  
+GitHub: [@satyam9196](https://github.com/satyam9196)
